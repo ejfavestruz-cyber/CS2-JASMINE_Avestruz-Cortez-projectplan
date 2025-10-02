@@ -1,5 +1,4 @@
-# CS2-JASMINE_Avestruz-Cortez-projectplan
-Title: ISKALARSync
+#Title: ISKALARSync
 #Description: The program aims to keep track of requirements that the student fails to remember, and this helps the student not force themselves to cram the requirements, it helps their overall academic experience.
 
 #Features: The program can not only keep track of requirements, but it can also prioritize tasks based on difficulty level (1-10 scale)and due dates the closest. Not only that, the program gives words of motivation after every finished task so that the user feels motivated and proud of their progress.
